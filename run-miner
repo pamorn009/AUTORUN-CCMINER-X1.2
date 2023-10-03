@@ -1,5 +1,5 @@
 #!/bin/bash
 
 cd
-cd ../etc/mobil-mining
+cd ../etc/mobile-mining
 python3 main.py
